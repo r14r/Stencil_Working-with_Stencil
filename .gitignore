@@ -1,2 +1,5 @@
 .env.d
 app-getting-started/node_modules
+fromgithub/calcite-app-components/dist**/.env.d
+**/.env
+
